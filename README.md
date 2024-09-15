@@ -1,10 +1,8 @@
-# flutterboy20 / README.md
+# flutterboy / README.md
 
 ## 🌙 About Me:
 - 🚀 I’m currently working on **Flutter**
-- 💬 Ask me about **Flutter, Java, RestAPI, Firebase**
-- ⚡ Fun fact: You can spell **World Wide Web** faster than **WWW** 😜
-
+- 💬 Ask me about **Flutter, Firebase**
 ---
 
 ## 📱 Socials:
